@@ -2,7 +2,12 @@
 module.exports = {
   content: ["./src/**/*.{html,js}"],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        "hero-pattern": "url('/src/images/bg.png')",
+        "footer-texture": "url('/img/footer-texture.png')",
+      },
+    },
   },
   daisyui: {
     themes: [
@@ -10,9 +15,9 @@ module.exports = {
         mytheme: {
           primary: "#570DF8",
 
-          secondary: "#F000B8",
+          secondary: "#03B8D7",
 
-          accent: "#37CDBE",
+          accent: "#03B8D7",
 
           neutral: "#3D4451",
 
