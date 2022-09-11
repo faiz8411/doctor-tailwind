@@ -10,13 +10,13 @@ const MakeAppointment = () => {
         className="flex justify-center items-center mt-14"
       >
         <div className="flex-1">
-          <img className='mt-[-100px]' src={doctor} alt="" />
+          <img className="mt-[-100px]" src={doctor} alt="" />
         </div>
         <div className="flex-1 ">
           <h5 className="text-secondary">Appointment</h5>
           <div className="text-white">
             <h2 className="text-3xl">Make an appointment Today</h2>
-            <p>
+            <p className="leading-loose">
               It is a long established fact that a reader will be distracted by
               the readable content of a page when looking at its layout. The
               point of using Lorem Ipsumis that it has a more-or-less normal

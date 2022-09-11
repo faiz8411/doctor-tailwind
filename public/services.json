@@ -1,0 +1,75 @@
+[
+    {
+        
+        "Name":"Teeth Orthodontics",
+        "slots":[
+            "8.00AM-8.30AM",
+            "8.30AM-9.00AM",
+            "9.00AM-9.30AM",
+            "9.30AM-10.00AM",
+            "10.00AM-10.30AM",
+            "10.30AM-11.00AM"
+        ]
+    },
+    {
+       
+        "Name":"Cosmetic Dentistry",
+        "slots":[
+            "8.00AM-8.30AM",
+            "8.30AM-9.00AM",
+            "9.00AM-9.30AM",
+            "9.30AM-10.00AM",
+            "10.00AM-10.30AM",
+            "10.30AM-11.00AM"
+        ]
+    },
+    {
+       
+        "Name":"Teeth Cleaning",
+        "slots":[
+            "8.00AM-8.30AM",
+            "8.30AM-9.00AM",
+            "9.00AM-9.30AM",
+            "9.30AM-10.00AM",
+            "10.00AM-10.30AM",
+            "10.30AM-11.00AM"
+        ]
+    },
+    {
+        
+        "Name":"Gravity Protection",
+        "slots":[
+            "8.00AM-8.30AM",
+            "8.30AM-9.00AM",
+            "9.00AM-9.30AM",
+            "9.30AM-10.00AM",
+            "10.00AM-10.30AM",
+            "10.30AM-11.00AM"
+        ]
+    },
+    {
+       
+        "Name":"Fluoride Treatment",
+        "slots":[
+            "8.00AM-8.30AM",
+            "8.30AM-9.00AM",
+            "9.00AM-9.30AM",
+            "9.30AM-10.00AM",
+            "10.00AM-10.30AM",
+            "10.30AM-11.00AM"
+        ]
+    },
+    {
+       
+        "Name":"Oral Surgery",
+        "slots":[
+            "8.00AM-8.30AM",
+            "8.30AM-9.00AM",
+            "9.00AM-9.30AM",
+            "9.30AM-10.00AM",
+            "10.00AM-10.30AM",
+            "10.30AM-11.00AM"
+        ]
+    }
+    
+]

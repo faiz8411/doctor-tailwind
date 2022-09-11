@@ -3,17 +3,17 @@ import React from 'react';
 const Review = ({ review }) => {
     const { image, name, adress, description } = review;
     return (
-      <div class="card w-96 bg-base-100 shadow-xl">
+      <div className="card w-96 bg-base-100 shadow-xl">
         <p>{description}</p>
-        <div class="card-body items-center text-center">
+        <div className="card-body items-center text-center">
           <div className='flex'>
-            <div class="avatar">
-              <div class="w-24 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
+            <div className="avatar">
+              <div className="w-24 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
                 <img src={image} alt="people" />
               </div>
             </div>
             <div>
-              <h2 class="card-title">{name}</h2>
+              <h2 className="card-title">{name}</h2>
               <h6>{adress}</h6>
             </div>
           </div>
